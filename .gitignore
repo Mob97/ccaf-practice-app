@@ -1,1 +1,4 @@
 question_sources/
+node_modules/
+.next/
+.env*.local
